@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kichu2305
+- 👋 Hi, I’m @krish2303
 - 👀 I’m interested in ml,ai,web deveolpment.
 - 🌱 I’m currently learning  machine learning algorthims.
 
